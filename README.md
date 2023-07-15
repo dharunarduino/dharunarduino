@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharunarduino
 - 👀 I’m interested in ... arduino projects
 - 🌱 I’m currently learning ...robotics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...with friends
 - 📫 How to reach me ...9119dharun2122@gmail.com
 
 <!---
